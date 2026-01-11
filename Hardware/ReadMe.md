@@ -76,5 +76,4 @@ These parts help with proper alignment, durability, and overall mounting stabili
 
 
 
-3D printable files are available via my LinkedIn profile: https://www.linkedin.com/in/abhayjain-makerverse
-
+3D printable files are available via my Printables profile: https://www.printables.com/model/1550105-sonar-style-distance-sensing-system-parts
